@@ -1,0 +1,24 @@
+# **Terminos de Git 2**
+
+## Git branch
+Te permite crear, enlistar, renombrar, y borrar ramas. 
+Aunque no te deja cambiar entre ramas.
+
+## Git checkout
+Te permite navegar entre ramas donde contengan todos los archivos de estas.
+
+## Git remote
+Te permite crear, ver y borrar conexiones con otros repositorios.
+
+## Git clone
+Como su nombre lo indica, se usa para agrarrar un repositorio y
+clonarlo dentro del sistema local (tu pc)
+
+## Git merge
+Permite fusionar lineas independientes creadas por Git branch
+en una sola rama
+
+## Git fork
+No es un comando de Git bash, pero es un nuevo repositorio que
+comparte codigos y configuraciones visibles con el repositorio
+original
